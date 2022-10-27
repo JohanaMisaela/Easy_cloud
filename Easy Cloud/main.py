@@ -8,16 +8,16 @@ from PyQt5.QtWidgets import QDialog, QApplication, QFileDialog, QPushButton, QLa
 from PyQt5.uic import loadUi
 from PIL import Image
 
-
+//your frebase config
 firebaseConfig = {
-    "apiKey": "AIzaSyBwdhi8tuPnCPqYJOXb39NVHzqaHgNP-h0",
-    "authDomain": "easy-cloud-82e1a.firebaseapp.com",
-    "databaseURL": "https://easy-cloud-82e1a-default-rtdb.firebaseio.com",
-    "projectId": "easy-cloud-82e1a",
-    "storageBucket": "easy-cloud-82e1a.appspot.com",
-    "messagingSenderId": "418228642810",
-    "appId": "1:418228642810:web:ea4a1948843f90636eba43",
-    "measurementId": "G-N8NJ808W6G"}
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": ""}
 
 firebase = pyrebase.initialize_app(firebaseConfig)
 
@@ -201,7 +201,7 @@ class Voirlist(QDialog):
 
     def loaddata(self):
         from firebase import firebase
-        firebase = firebase.FirebaseApplication('https://easy-cloud-82e1a-default-rtdb.firebaseio.com/', None)
+        firebase = firebase.FirebaseApplication('your firebase project link', None)
         contacts = firebase.get('/contact/', '')
         values = []
         dico = list()
