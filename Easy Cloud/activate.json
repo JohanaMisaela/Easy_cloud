@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "easy-cloud-82e1a",
-  "private_key_id": "c506223cc6ea85bc6b675d9cca80ab8e290505a0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAATjweodWK23i\nydWBs710zk+TGQN9irejno6r6QObox0kNmOL6qwOQZmzJje62Ae0z52IABFx1PZv\n740iyxnhMuApDrL2vorrQv3F6jkIwbXPK2IeA7shXo/vg4aOKYsvnQAWYG74V3KZ\nP8mZhpGWm+sPUWES8GgcfnZQFI2Jn4G79Vty1CIhD3bTe06Ixd6rWa8yoan/2VTh\niBWlHsH7OAlwSnOVaF8Z86KTN2QEW4KlDsiXmlVB8sUSossIwD3LNnt9dmVGFeF2\nDN+mAJXC4823YrlDrpBg8Ivsv8yksJsQ63uzeiEyR/+/wZKAB7ZFPjhJg/Op8clZ\nwys8WObDAgMBAAECggEAAmkhhLdtHT0Er1fBuVP/OXO2VmOhLRbW8RQhDhx/V0QS\n2MJhY+opiIZJ/pCoxiJHOn3EKGcj0O46Z95gmG1nYPH0FDU4iauLxUy9MJpyZonp\nap/3UTwnwdFU9Pi4Ru7+QzXxQIFWc1dvEL3XHfktY8WHtn9a534i4yoH+epqz9hY\nwxCqP8EO0mY/zQzcdnLarpTICq+5Z/ArGXw2RqSGLq4L26zGwNPtd+CEqR7FIF+7\nkql9fln6SKBt1hG/LEbcjJ9nN7iY/zlc4HF79RWbyz8Hp7937TUlvz7QIr6lYkWg\nz0P4QTX37iYKbmi/EdBJRoej1l0wXxygV4u2ZF/zCQKBgQDsO/MFyGWoiUCfjeVu\noyL72c9Mw6wjsXyyYNvoovjnSKb5sjwE2b1cmUWFDktFAQ/gak55uSdYjgo9DwQd\nde6Z4hVuKAEz8g/GGxLGOi1u9YhGI6jLO7tl9tvWV1QifK46MhGsh3zKeLQVgewl\nS5LMZrA7TgDxDAOrgXBJTLKMuQKBgQDQEeUy8vuLVxKnk8gd0TYOmlQBAtBebqSy\n/v59UpUvnyd5680RXVekI3O3ewo5GiectsPJIvTWdFJgI7D1b1cqNzwrUXh+zP1P\n8XJgzUnhuhIwENyeBLZAiYmFInpMliReaiVNK9EDGdOeMDFegwHtTAsZjWs9bcJQ\nm5Yn2/FpWwKBgHEEtV3c5BXfpFUxU8S8s63+JJk7PA3PijLk+BCyd5ZfQdNQHDrN\n2TSF96aSkhwvR+M7uNOva02IlwljN7rIgyCH82zCIuExO66xoSfJCZd+THYR9V1V\n9G/xzHcdTJk7QTeCYMZEA8XyPWXUxJ+LKm4z6rhUt0qbTt4sjQXkdb+xAoGAYBsT\n8c+X7ol+fVbeRR+AR4hzKrBhDG0wt9jeNYayj/eEZWVMKCwkMhWJ+oLjevKgv1sP\n3dS+oFvEPNHfh84wxbgTm7Ka5H7MtmNAwIOyD4hBpF/1dyuX/wFIOu1s7fkfvVhr\n+FQ3y6XfQB7kftImTrQkIF5Y3VvYOCFVXv3RaScCgYEAhFXX2lsJ/ePc83Ta0m+P\nIWrAuq7lDz6PFq0cpIGMk27JWrIP2L0YAotH3rjSw58qQuknYk1laIFZeZ/qvFE/\nd4pVGG1hs5FAD9beRjz3I8/8F7sCLpV1NJf504u9C540dSKgf6CZyUL/8A7QDJcC\nl8b8M+3PowDiDkIV3hInJtU=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-tm9fs@easy-cloud-82e1a.iam.gserviceaccount.com",
-  "client_id": "107989055260784184169",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tm9fs%40easy-cloud-82e1a.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }
